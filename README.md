@@ -1,6 +1,6 @@
 # React Tetris - Starter files
 
-This is the starter files for the React-Tetris tutorial, you will find: 
+This is the starter files for the React-Tetris, you will find: 
 
 1. The background (from Unsplash, Clemen Vrankar).
 2. The font (author: Sizenko Alexander, www.styleseven.com, The fonts Pixel LCD-7 is freeware for home using.)
